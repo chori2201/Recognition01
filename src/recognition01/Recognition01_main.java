@@ -13,7 +13,7 @@ public class Recognition01_main {
 		// TODO Auto-generated method stub
 
 		VisualRecognition service = new VisualRecognition("2018-03-19");
-		service.setApiKey("KXoVRPlseRDDDRCRKwbn0vfvNvpaGiRIvNCQrwaTCq0O");
+		service.setApiKey("1518074");
 
 		DetectFacesOptions detectFacesOptions = null;
 		try {
